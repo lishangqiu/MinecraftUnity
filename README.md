@@ -1,2 +1,4 @@
 # MinecraftUnity
-Minecraft Clone try2 with Unity
+Minecraft Clone second try with Unity:
+
+Only for learning purposes of me(David Li). 
